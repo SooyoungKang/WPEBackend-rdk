@@ -42,6 +42,7 @@
 
 #define WIDTH 1280
 #define HEIGHT 720
+#define DEFAULT_CARD "/dev/dri/card0"
 
 namespace WaylandEGL {
 
